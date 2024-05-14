@@ -89,27 +89,45 @@
                                 {
                                     "title": "HTTP プロトコルの基本解説",
                                     "link": "/docs/technical-notebook/dotnet/http-protocol/basic-explanation",
-                                    "description": "HTTP プロトコルの基本的な概要や使い方についての解説です。"
+                                    "description": "HTTP プロトコルの基本的な概要や使い方についての解説です。",
+                                    "series": "technical-notebook-dotnet-http-protocol",
+                                    "seriesId": "basic-explanation",
+                                    "seriesNumber": 1,
+                                    "tags": ["http", "protocol"],
+                                    "relatedPriority": 0
                                 },
                                 {
                                     "title": "HTTP GET メソッドの解説",
                                     "link": "/docs/technical-notebook/dotnet/http-protocol/get-method",
-                                    "description": "HTTP GET メソッドの解説です。"
+                                    "description": "HTTP GET メソッドの解説です。",
+                                    "series": "technical-notebook-dotnet-http-protocol",
+                                    "seriesId": "get-method",
+                                    "seriesNumber": 2,
+                                    "tags": ["http", "get"]
                                 },
                                 {
                                     "title": "HTTP POST メソッドの解説",
                                     "link": "/docs/technical-notebook/dotnet/http-protocol/post-method",
-                                    "description": "HTTP POST メソッドの解説です。"
+                                    "description": "HTTP POST メソッドの解説です。",
+                                    "series": "technical-notebook-dotnet-http-protocol",
+                                    "seriesId": "post-method",
+                                    "seriesNumber": 3
                                 },
                                 {
                                     "title": "HTTP PUT メソッドの解説",
                                     "link": "/docs/technical-notebook/dotnet/http-protocol/put-method",
-                                    "description": "HTTP PUT メソッドの解説です。"
+                                    "description": "HTTP PUT メソッドの解説です。",
+                                    "series": "technical-notebook-dotnet-http-protocol",
+                                    "seriesId": "put-method",
+                                    "seriesNumber": 4
                                 },
                                 {
                                     "title": "HTTP DELETE メソッドの解説",
                                     "link": "/docs/technical-notebook/dotnet/http-protocol/delete-method",
-                                    "description": "HTTP DELETE メソッドの解説です。"
+                                    "description": "HTTP DELETE メソッドの解説です。",
+                                    "series": "technical-notebook-dotnet-http-protocol",
+                                    "seriesId": "delete-method",
+                                    "seriesNumber": 5
                                 }
                             ]
                         }
