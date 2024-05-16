@@ -77,9 +77,14 @@
                             "title": "GitHub Actions",
                             "articles": [
                                 {
-                                    "title": "【.NET】 テストの自動実行",
+                                    "title": "【.NET】GitHub Actions でテストを実行",
                                     "link": "/docs/technical-notebook/dotnet/github-actions/automatic-test-execution",
-                                    "description": "GitHub Actions で .NET プロジェクトのテストを自動実行する方法について解説します。"
+                                    "description": "GitHub Actions で .NET プロジェクトのテストを自動実行する方法について解説します。",
+                                    "series": "technical-notebook-dotnet-github-actions",
+                                    "seriesId": "automatic-test-execution",
+                                    "seriesNumber": 1,
+                                    "tags": ["github-actions", "test", "dotnet"],
+                                    "relatedPriority": 0
                                 }
                             ]
                         },
