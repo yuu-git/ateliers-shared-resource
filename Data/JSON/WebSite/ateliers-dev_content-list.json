@@ -85,6 +85,16 @@
                                     "seriesNumber": 1,
                                     "tags": ["github-actions", "test", "dotnet"],
                                     "relatedPriority": 0
+                                },
+                                {
+                                    "title": "【.NET】GitHub Actions で脆弱性検査を実行",
+                                    "link": "/docs/technical-notebook/dotnet/github-actions/vulnerability-scan",
+                                    "description": "GitHub Actions で .NET プロジェクトの脆弱性検査を実行する方法について解説します。",
+                                    "series": "technical-notebook-dotnet-github-actions",
+                                    "seriesId": "vulnerability-scan",
+                                    "seriesNumber": 2,
+                                    "tags": ["github-actions", "security", "dotnet"],
+                                    "relatedPriority": 0
                                 }
                             ]
                         },
